@@ -1,0 +1,28 @@
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.exe
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.deps.json
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.runtimeconfig.json
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.runtimeconfig.dev.json
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.dll
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.pdb
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.csproj.AssemblyReference.cache
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.AssemblyInfoInputs.cache
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.AssemblyInfo.cs
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.csproj.CoreCompileInputs.cache
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.dll
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.pdb
+C:\Users\Dustin Miller\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.genruntimeconfig.cache
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.exe
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.deps.json
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.runtimeconfig.json
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.runtimeconfig.dev.json
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.dll
+C:\Users\dsmil\source\repos\c#\ArrayMashup\bin\Debug\netcoreapp3.1\ArrayMashup.pdb
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.csproj.AssemblyReference.cache
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.AssemblyInfoInputs.cache
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.AssemblyInfo.cs
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.csproj.CoreCompileInputs.cache
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.dll
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.pdb
+C:\Users\dsmil\source\repos\c#\ArrayMashup\obj\Debug\netcoreapp3.1\ArrayMashup.genruntimeconfig.cache
